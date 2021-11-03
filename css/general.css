@@ -136,8 +136,8 @@ filter: alpha(opacity=95) !important;
 
 /* Button */ 
 .mybutton_standard {
-	border: 1px solid #fff;
-	color: #fff;
+	border: 1px solid rgb(15, 15, 15);
+	color: rgb(8, 8, 8);
 }
 
 .mybutton_cyano{
